@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/harren06/ublock-yt-shorts) ![GitHub License](https://img.shields.io/github/license/harren06/ublock-yt-shorts) ![GitHub Repo stars](https://img.shields.io/github/stars/harren06/ublock-yt-shorts)
+[![GitHub last commit](https://img.shields.io/github/last-commit/harren06/ublock-yt-shorts)](https://github.com/Harren06/ublock-yt-shorts) [![GitHub License](https://img.shields.io/github/license/harren06/ublock-yt-shorts)](https://github.com/Harren06/ublock-yt-shorts/blob/main/LICENSE) [![GitHub Repo stars](https://img.shields.io/github/stars/harren06/ublock-yt-shorts)](https://github.com/Harren06/ublock-yt-shorts/stargazers)
 
 
 # uBlock YouTube Shorts Filter List
